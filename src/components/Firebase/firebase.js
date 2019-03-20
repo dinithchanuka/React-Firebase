@@ -8,7 +8,6 @@ const config = {
     storageBucket: "react-conncect-to-firebase.appspot.com",
     messagingSenderId: "430464758798"
 };
-firebase.initializeApp(config);
 
 class Firebase {
     constructor() {
